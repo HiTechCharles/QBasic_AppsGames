@@ -1,0 +1,71 @@
+                                  Tic Tac Toe
+                                 Instructions
+
+
+     Tic Tac Toe is a game for 2 players.  The game is played on a 9-square
+board. (See figure 1.)  The object of the game is to get three of your pieces
+in a row; either going across, down or diagonally.
+
+GETTING STARTED:
+
+     First, you need a board to play on.  Draw two lines going up and down,
+then draw two lines going left to right THROUGH the set you just drew.  After
+you draw the board, you should have 9 small squares.  (See figure 2)  Next,
+each player chooses a piece to draw in the squares they want.  One player gets
+an X, the other player gets the O.  (letter O)
+
+HOW TO PLAY:
+
+     After you draw a board and choose pieces, it's time to play!  Decide who
+will go first.  Now, the player that will be going first draws their piece
+(either an X or an O) in one of the nine squares.  Now, the other player marks
+another square with their piece.  You cannot take a square that already has an
+X or an O in it.  You only mark one square per turn.
+
+WINNING
+     
+     If a player gets 3 X's in a row, or 3 O's in a row, that player that drew
+the x's or o's wins.  If there is no winner, it's a tie.  A tie is also called
+a "cat's game."  (See figure 3)
+
+
+  Figure 1       Figure 2        Figure 3
+ÚÄÄÄÂÄÄÄÂÄÄÄ¿                   ÚÄÄÄÂÄÄÄÂÄÄÄ¿
+³   ³   ³   ³    1 ³ 2 ³ 3      ³ X ³   ³ O ³
+ÃÄÄÄÅÄÄÄÅÄÄÄ´   ÄÄÄÅÄÄÄÅÄÄÄ     ÃÄÄÄÅÄÄÄÅÄÄÄ´
+³   ³   ³   ³    4 ³ 5 ³ 6      ³   ³ X ³   ³
+ÃÄÄÄÅÄÄÄÅÄÄÄ´   ÄÄÄÅÄÄÄÅÄÄÄ     ÃÄÄÄÅÄÄÄÅÄÄÄ´
+³   ³   ³   ³   7  ³ 8 ³ 9      ³ O ³ O ³ X ³
+ÀÄÄÄÁÄÄÄÁÄÄÄÙ                   ÀÄÄÄÁÄÄÄÁÄÄÄÙ
+
+Tic tac toe    How to draw a    Example of a win
+board layout   Tic Tac Toe      in Tic Tac Toe.
+               board on paper   X wins in this 
+                                example.
+
+HOW TO PLAY THIS COMPUTERIZED VERSION
+
+     You can have any combination of players.  You can have two human players,
+a human against the computer, or two computer players against each other.  
+
+     When you first see the board, it will look exactly like Figure 2 above.  A
+number wil be in each square that you can choose.  To place your piece, push
+the number that matches  the square you want.  For example, if you push
+the number 5, your piece will be on the middle square.
+
+HOW TO PLAY THE CARD MODE
+
+     Instead of the players choosing where you want your pieces, you draw
+cards that decide where your pieces will go.  Cards include the squares 1-9,
+wild, and lose a turn.  The wild card lets you choose any open square you
+want.  The lose a turn card makes you skip your turn.  Try it.  It's fun!
+
+CREDITS
+
+     This game was created by Charles Martin.  The Wave player was written
+     by Dave Navarro Jr.  This program was created and compiled using QBasic
+     4.5.
+
+
+If you have comments or questions, send them to HiTechCharles@gmail.com
+

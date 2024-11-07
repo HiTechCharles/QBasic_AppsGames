@@ -1,0 +1,11 @@
+better letter flip sound
+
+
+Characters allowed in puzzles:
+A-Z		<A-Z>.wav
+0-9		<0-9>.wav
+.		period.wav
+-		dash.wav
+'		apost.wav
+space		space.wav
+unknown letter	unknown.wav

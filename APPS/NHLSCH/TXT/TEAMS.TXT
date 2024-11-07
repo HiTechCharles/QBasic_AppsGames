@@ -1,0 +1,30 @@
+Anaheim         Ducks           ANA    We   Pacific
+Atlanta         Thrashers       ATL    Ea	SouthEast
+Boston          Bruins          BOS    Ea	NorthEast
+Buffalo         Sabres          BUF    Ea	NorthEast
+Calgary         Flames          CGY    We   NorthWest
+Carolina        Hurricanes      CAR    Ea	SouthEast
+Chicago         BlackHawks      CHI    We   Central
+Colorado        Avalanche       COL    We   NorthWest
+Columbus        Blue Jackets    CBJ    We   Central
+Dallas          Stars           DAL    We   Pacific
+Detroit         Red Wings       DET    We   Central
+Edmonton        Oilers          EDM    We   NorthWest
+Florida         Panthers        FLA    Ea	SouthEast
+Los Angeles     Kings           LA     We   Pacific
+Minnesota       Wild            MIN    We   NorthWest
+Montreal        Canadiens       MTL    Ea	NorthEast
+Nashville       Predators       NSH    We   Central
+New Jersey      Devils          NJ     Ea	Atlantic
+New York        Islanders       NYI    Ea	Atlantic
+New York        Rangers         NYR    Ea	Atlantic
+Ottawa          Senators        OTT    Ea	NorthEast
+Philadelphia    Flyers          PHI    Ea	Atlantic
+Phoenix         Coyotes         PHO    We   Pacific
+Pittsburgh      Penguins        PIT    Ea	Atlantic
+San Jose        Sharks          SJ     We   Pacific
+St. Louis       Blues           STL    We   Central
+Tampa Bay       Lightning       TB     Ea	SouthEast
+Toronto         Maple Leafs     TOR    Ea	NorthEast
+Vancouver       Canucks         VAN    We   NorthWest
+Washington      Capitals        WSH    Ea   SouthEast

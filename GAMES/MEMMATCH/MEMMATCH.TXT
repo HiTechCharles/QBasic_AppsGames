@@ -1,0 +1,52 @@
+			Memory Match
+			By Charles Martin
+
+		Version 3.5 last modified September 10, 2004
+
+
+OBJECT OF THE GAME
+Cards are dealt face down into two rows of six.  The
+Object of the Game is to find and remove all matching
+pairs of cards.
+
+
+PLAYING
+Cards you can flip are labeled with the letters A through L.
+As you remove cards, letters will become unavailable.
+
+1   Flip over two cards by pressing the card's letter.
+2   If the two cards are a pair, they are removed from the grid.
+    Otherwise, they are turned face down.
+3   If you find three pairs in a row without a miss, you get a bonus.
+4   When all pairs have been found and the board is empty,
+    your score is displayed, and the game ends.
+
+
+SCORING
+2 points for every pair you find.  (Always will be 24)
+Lose 2 points for every miss.
+6 points if you find 3 pairs in a row.  (A triplet)
+
+The top ten best scores are saved, and you can see the list after finishing
+a game.  -Delete the file MEMMATCH.HI to clear the scores, and game options.
+
+
+OPTIONS
+During gameplay, the following keys can be used:
+
+     S - Turns sound effects on and off.
+     R - Turns speech on and off.  (Announces the letter hit, and the cards
+         that get flipped over.)
+	 M - Reads out loud the card letters that can be chosen.
+ESCape - Quit the game entirely.
+
+When the speech or sound settings are changed, they are saved so that the
+options will be the same next time the game is started.
+
+
+OTHER INFO
+This software was created by Charles Martin.  It was created with
+Microsoft QBasic 4.5.  The game  may be distributed, only with the
+original files and this document together.
+
+If you have comments or questions, send them to HiTechCharles@gmail.com

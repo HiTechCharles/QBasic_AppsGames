@@ -1,0 +1,27 @@
+Which files should go into this folder, you ask:
+
+
+FILE NAME	WHAT TO SAY
+---------	-----------
+0.wav		0
+1.wav		1
+2.wav		2
+3.wav		3
+4.wav		4
+5.wav		5
+6.wav		6
+7.wav		7
+8.wav		8
+9.wav		9
+10.wav		10
+11.wav		11 
+12.wav		12
+13.wav		13
+14.wav		14
+15.wav		15
+16.wav		16
+17.wav		17
+18.wav		18
+19.wav		19
+20.wav		20
+

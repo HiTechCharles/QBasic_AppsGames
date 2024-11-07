@@ -1,0 +1,613 @@
+
+           ---------------  Some introduction -------------------------                              
+                                                                             
+   CONASCII can be used to create text based Boxes or screens for PBCC, PBdos,
+   Qbasic, QB4.5 and QB4.0. 
+
+                                                                               
+   Press the Right Mouse Button to select the Drop Down Menu and right click 
+   twice to turn it off if you don't select from the Drops while they are    
+   being displayed.                                                          
+                                                                             
+   There is 99 screen in this program. If you were to Click on Page at the   
+   Tool Bar 99 times, you would see 99 screens of nothing. Or if you were to 
+   Click on the  ÉÍÍÍÍ¹ line on the Tool Bar and tap the down Arrow key about
+   2400 times you would scroll to screen 99 drawing a line that was 2400 rows
+   deep. Left Clicking on Row, Page, Txcolor, Bgcolor will advance them to   
+   the next and Right clicking on them will advance them to the previous.    
+                                                                             
+   The Copy tool in this program does not copy to Windows ClipBoard the same 
+   way as other programs. There are many types of Copy located in the Area   
+   Drop on the Menu which is covered below.                                
+                                                                             
+
+                                                                                
+              ---------------- Click on Area --------------------                                       
+                                                                                
+  To select an area for Copy, Cut, Color, Edit and other selections from the    
+  Drop Down Menu, click on the opposite diagional corners with the left mouse   
+  button.                                                                       
+                                                                                
+ 1st click  ²                2nd click ²ÍÍÍÍÍÍÍÍÍÍÍÍÍ»                          
+             \                         º  .          º                          
+              \                        º      .      º                          
+               \                       º          .  º                          
+                \                      ÈÍÍÍÍÍÍÍÍÍÍÍÍÍ² 1st click                
+                 \                                                              
+                  ²  2nd click                                                  
+                                                                                
+                                                                                
+       Ûßßßßßßßßßßßßß² 2nd       As you can see, if the bottom left is clicked  
+ or    Û           / Û           on first, then diagional from that is the top  
+       Û         /   Û           right and that is where you would do the       
+       Û       /     Û           second click.                                  
+       Û     /       Û                                                          
+       Û   /         Û           It doesn't make any difference which corner    
+       Û /           Û           you click on first.                            
+  1st  ²ÜÜÜÜÜÜÜÜÜÜÜÜÜÛ                                                          
+                                                                                
+
+
+
+            --------------- Typing Text on the Screen -----------------
+
+   Just type the way you normally do and when you hit Enter the cursor will 
+   go to the next line on column one. If you want to add Extended ASCII
+   charecters, right Click for Menu and click on Misc and Extended ASCII and
+   the charecter you want to add. Hit Esc to clear the Arrow Keys of the 
+   charecter. Space Bar and Back Space will remove text from the screen.
+   The arrow keys will move the cursor around the screen without destroying
+   any text. There is no Insert or Delete charecters, only strike over. When
+   you get good enough, you can use Copy, Cut and Paste to edit lines with.
+
+   It would be easier to Select the area you want text in and use Edit on the
+   the Bar when you need a lot of Text, since it has full editing.
+ 
+         
+
+
+     ----------- Margin ON and OFF -------------
+   
+   It is easier to type on the screen if you set
+   Margin on at the column you want your text to
+   start. You can hit Enter several times without
+   it inserting new lines. Without the Margin 
+   being on, when you hit Enter once, the cursor
+   goes to a new line at column one. If you hit
+   Enter the second time without typing anything
+   a new line is inserted.            
+                                            
+   Margin is under the Misc Drop on the Menu.
+   Margin On sets the left hand Margin to the 
+   program cursor position. There is no right 
+   hand Margin, you will have to Hit Enter to 
+   go to the next line. If you want to use    
+   word wrap, use Edit, see Edit in Help.                       
+                                            
+   Margin Off is located in the same place on 
+   the Drop Down Menu.                        
+
+
+
+          ------------------ Insert Row  ------------------------          
+                                 
+   To insert a Row into the Screen, place the program cursor at the 
+   beginning at Column one and hit the Enter key.                  
+                                 
+ 
+          ------------------ Delete Row ------------------------           
+                                 
+   To delete a row click on column one on the row you want to      
+   delete and then hit the delete key.                            
+                                 
+
+
+         ------------------- LINE DRAWING -------------------------              
+                                         
+    Notice on the Bottom Bar next to the TxColor selection, there is a    
+    image of double lines. Left Click on it and it is selected and Right   
+    Click on it and it is changed.
+                                
+    Locate the Mouse cursor to where you want to start and Left Click.    
+    That places the program cursor to that location.                       
+                                         
+    With the Arrow Keys draw the lines any direction you want.              
+                                         
+    Sometimes after changing to a different line, the starting         
+    charecter is wrong. To correct it, place the mouse cursor on it and     
+    click, then hit spacebar and restart your line. It should work this
+    time. 
+
+    Try drawing a Box with one of the lines. Then click inside the box
+    at diagional corners without clicking on the line corners, then click
+    on Edit. Type enough text to fill most of the Edit dialog and then
+    click OK. Notice how the text is placed inside the frame you drew.
+
+
+   ----------ForeGround and BackGround Color ----------          
+                                                   
+  I'm sure you have noticed and tried the TxColor  
+  and BgColor on the Bottom Bar. If you haven't,   
+  when you left click on one of them they will     
+  change colors and that will be the color that    
+  is applied to the screen when you type something 
+  or use the Color tool on the Bottom Bar.         
+                                                   
+  Right click on them and they will change colors  
+  in reverse. 
+  
+  When you get both colors the same the labels will
+  disappear including the line tool label. Just click
+  on it again and they will reappear.                                     
+
+      
+
+       ----------------- Opening Files ------------------                        
+                                                               
+  Files that has a color attribute, like Binary and Bload,     
+  Has their own extentions and must keep that extention to     
+  be loaded properly. The program reads extentions to 
+  load files correctly.                                         
+                                                               
+  .BNY is used for old DOS multiscreen binary files. It is     
+  slow to load but twice as small in size as .BNA file types.  
+                                                               
+  .BNA is also a Multiscreen binary that is quite large, but   
+  super fast to load. I like it the best for multiscreens.     
+                                                               
+  .POP is a Saved portion of the Screen with it's original     
+  address stored at the beginning.                             
+                                                               
+  .BSA is a Bsaved file. If you have a Bsaved file with a      
+  different extention, you will need to change it to BSA       
+  to get it to load correctly.                                 
+                                                               
+  All other extentions will load as Text files.                
+                                                               
+  To Load, click on Open on Drop Down Menu, then file type,    
+  then File Name, and then OK. 
+
+  
+                                                                   
+          ---------------- Saving to Files -----------------                     
+                                                                       
+  The Screens created to be stored in the Source's DATA statement can  
+  be either Saved to a .INC file or put it in the ClipBoard by         
+  clicking on  Area  and then on  Area to CB  in the Drop down Menu.   
+                                                                       
+  To Save to an INCLUDE file click, use Copy first, (see Copy) then 
+  click on Save and Enter a Name with an INC extention under File Name.
+  When ask if to Create file, click on yes. If it is a new file a screen
+  launcher Sub will be added this one time along with the first Subroutine.
+  Everything else that is added will be attached  to the end of the file
+  and will also include a DECLARE statement along with it's matching
+  Subroutine.             
+                                                                       
+  The .BNY file stores many DOS Binary screens. It is slow to Load.    
+                                                                       
+  The .BNA file stores API Compatible fast loading Binary screens.     
+                                                                       
+  The .POP file stores a Box or area along with it's location address.
+                                                                         
+  The .BSA file stores a BSAVED screen that can be used with BLOAD.    
+                                                                       
+  DDA stores the DOS version of the DATA Screens and it's launcher.  
+
+
+
+  To Display a POP file in your PBCC programs, first load it in a String.
+  Will need WIN32API.INC
+  
+  ff = FREEFILE
+  OPEN FILENAMEs$ FOR BINARY AS #ff    
+    GET$ #ff, 4, y1$
+    GET$ #ff, 4, y2$
+    GET$ #ff, 4, y3$
+    GET$ #ff, 3, y4$
+
+    r1  = VAL(y1$)
+    r2  = VAL(y2$)
+    c1  = VAL(y3$)
+    c2  = VAL(y4$)
+
+    rol  = r2  - r1  + 1
+    colz  = (c2  - c1  + 1) * 2
+    GET$ #ff, LOF(ff) - 15, pic$
+  CLOSE #ff
+
+  FOR x = 1 TO LEN(pic$)
+    pict$ = pict$ + MID$(pic$, x, 1) + " "
+  NEXT x
+  textputz r1 , c1 , r2 , c2 , pict$         'This call displays the part
+
+  pic$ ="" : pict$ = ""
+  y1$="": y2$="": y3$="": y4$="":rol =0: colz =0
+
+  SUB TextPutz (r1, c1, r2, c2, Area$)        'Paste area up to full screen
+    LOCAL Size AS DWORD
+    LOCAL Buf$
+    LOCAL Rectangl AS SMALL_RECT
+    Buf$ = Area$
+    Size = MAKDWD(c2+1-c1, r2+1-r1)           'Size of rectangle
+    Rectangl.xTop = r1-1                       ' Set Row and column
+    Rectangl.xLeft = c1-1                      ' address of all 4 sides
+    Rectangl.xBottom = r2-1                    ' of a Rectangle for Read
+    Rectangl.xRight = c2-1                     ' or for Write.
+    WriteConsoleOutput GETSTDOUT, BYVAL STRPTR(Buf$), BYVAL Size, 0&, Rectangl
+    Buf$ = ""
+ END SUB 
+
+ 
+
+   To Display a POP file using PBDOS
+
+
+  OPEN filename$ FOR INPUT AS #1                      ' P O P     F I L E S
+    Dumi$ = INPUT$(1, #1)         ' chr$(254) for Windows API, not used here
+    y1$ = INPUT$(3, #1)
+    y2$ = INPUT$(4, #1)
+    y3$ = INPUT$(4, #1)
+    y4$ = INPUT$(4, #1)
+    y5$ = INPUT$(4, #1)
+
+    r1% = VAL(y1$)
+    r2% = VAL(y2$)
+    c1% = VAL(y3$)
+    c2% = VAL(y4$)
+    tspace% = VAL(y5$)
+ 
+    rol% = r2% - r1% + 1
+    colz% = (c2% - c1% + 1) * 2
+    FOR x = 1 TO rol%
+       pic$(x) = INPUT$(colz%, #1)
+    NEXT x
+ CLOSE #1
+
+    
+     textputz r1%, c1%, r2%, c2%, pic$()           ' display the string
+     ERASE  pic$
+     y1$="": y2$="": y3$="": y4$="":rol%=0: colz%=0  
+                                                 
+  
+    SUB textputz (r1%, c1%, r2%, c2%, sa$())     ' PBdos launching sub
+     MouseHideCursor
+     DEF SEG = &HB800
+     DECR r1%: DECR c1%
+     col1% = (c1% * 2) + (r1% * 160)
+     ro% = r2% - r1%
+     FOR x = 1 TO ro% + 1
+       POKE$  col1%, sa$(x)
+       INCR col1%, 160
+     NEXT x
+     MouseShowCursor
+   END SUB
+
+   The string could have been chopped up into lines
+   using MID$, but I already had this Sub created.
+
+   QBasic probably could display this POP file with a little alteration
+   of the Launching Sub that is included with DATA screens.
+
+   Like the Screens in DATA, POP files will display in the positions
+   they were created.
+
+
+
+
+
+     --------------- Copy PBCC Code to ClipBoard-------------                     
+                                                                
+    This selection can be used seperately from the Mouse tool   
+    that allows you to select any words or group of words to be 
+    mouse or Keyboard selectable.                               
+                                                                
+    To use it seperate, copy an area of text or screen using    
+    the Copy tool on the bottom bar. Next Right click for drop  
+    down menu and click on Area. Click on Copy PBCC Screen Code 
+    to ClipBoard.                                               
+                                                                
+    A box will display showing 4 different options. Since you   
+    didn't use the Mouse tool, you only have the choice of two  
+    different options. A Screen Only option or Include Launch   
+    SUB option.                                                 
+                                                                
+    Include Launch SUB option is for first time use, when the   
+    program hasn't received any DATA Screens.                   
+                                                                
+    The Screen only option, you get a SUB with the screen stored
+    in DATA and there is no Launcher SUB included. If you have  
+    previously put a screen in your program, the Launcher will  
+    already be there and you wouldn't need it again.  
+
+ 
+
+    
+       ---------Copy PBdos or QB Screen Code to ClipBoard---------           
+                                                          
+       If you want to store your screens in DATA using PBdos     
+       or QB, copy the Area using the Copy Tool at the Bottom    
+       Bar and Right Click for Menu and select Area. Then        
+       select Copy PBdos Screen Code to ClipBoard on the Area    
+       Drop. A Box will pop up requiring a Label name for the    
+       screen. Another box will POP up asking which Basic to     
+       use. Last Box will pop up asking if you want to include   
+       the Launching Code. If it is the first time to store a    
+       screen in DATA, click yes.                         
+                                                          
+       You can now paste it into your favorite Text editor. 
+
+             
+
+      ---------------- QB & PBdos DATA screens to File --------------------                              
+                                                                                
+  Screens or boxes are created the same way for both compilers. I have created  
+  them for PB3, QB4, QB4.5 and QBasic.                
+                                                                                
+  You can use the file system to save them to a basic file or put them into     
+  the Windows ClipBoard. Using the File system lets you Append every newly      
+  created screen to the end of one file if your want more than one screen.      
+  The program will check file you choose to see if it has any bytes, if there   
+  is no bytes, it will know it is newly created and includes a Launcher Sub     
+  with the Screen or Box DATA. If it sees Bytes, only the Data screen, caller,  
+  label and Restore Label is Appended excluding the Launcher Sub.               
+                                                                                
+  Save to File: Click on the corners of chosen area, see Click on Area in Help. 
+                Click on Copy at tool bar. Right Click Mouse for Drop Down.     
+                Click on File then Save.                                        
+                Under the Folder Label in Save Dialog, select your folder.      
+                Under List Files of Type, click on PBdos & QB DATA (*.BAS)      
+                Under File name: label Type in your file name with .BAS ext.    
+                When asked to Create dialog pops up, click on Yes.              
+                When Enter Label Name Box pops up Enter a name for your screen  
+                When Choose Basic Box pops up click on the one you are using.   
+                                                                                
+  If you choose to add more screens to that file Everything will be appended    
+  to the end. It seems like a lot to do, but it needs to generate correct code. 
+
+ 
+
+
+
+      ------------Text to ClipBoard----------     
+
+
+     There is something extra for selecting    
+     the area of text. Make sure your last     
+     click is on a space one charecter father  
+     than your longest line or the first click 
+     is one charecter before the start of the  
+     lines. Making the first click on the start
+     and the last click even with the longest  
+     line will cause the last word on the      
+     longest line and the first word on the    
+     next line to be jammed together since     
+     a space was not copied to seperate them.  
+                                               
+       click---> The quick red fox             
+                 jumped over the               
+                 lazy dog's back.  <---Click   
+                                               
+     Since there was no space copied after fox 
+     or before jumped it would read:           
+     The quick red foxjumped over the lazy     
+     dog's back.                               
+                                               
+     After text is selected Click on Area and  
+     Copy Regular Text to Clipboard on Menu 
+
+
+   
+
+    ------------- Copy Text with lines to clipboard --------------              
+                                                                    
+     Copying regular text without any drawn lines doesn't need any  
+     returns since it needs  to word wrap when it is pasted in the  
+     Edit box for editing, so drawn lines would get messed up.      
+                                                                    
+     This method of copying text to clipboard will paste the text   
+     in NotePad looking the same way it was when copied. If NotePad 
+     is setup with Terminal font and Wordwrap is off, all drawn     
+     lines should display properly.                                 
+
+
+                                                                                
+     -------------------Selecting Mouse and Key Sensitive Words---------------- 
+
+    Mouse Sensitive words are words that you put on the screen that you want
+    to click on with you mouse to do a certain function. You can select as 
+    many as you want. The Help menu on this program was created with it.
+    There is an example of the generated output on the PowerBasic Source code
+    forum. It was designed for use with PBCC.                                                                         
+      
+                                                                                
+                                              click  click                      
+    1. Select the first Character of a word...            and the last one.   
+                                                  Edit                          
+                                                                                
+    2. Click on Mouse at the bottom bar. A reddish Flash will cover the word.   
+       If the Flash covers a different area and not your word, you didn't get   
+       in solid clicks. Redo the above, you may have to delete that part out of 
+       your generated code, which is easy to do.                                
+                                                                                
+    3. Click on two diagonal corners of your screen or area and click on Copy   
+                                                                                
+    4. Right Click the Mouse for the Menu and Click on Area and then click on   
+       Copy PBCC Screen Code to Clipboard                                       
+                                                                                
+    5. When the 6 boxes pop up click in the Include All box if it is your       
+       first time to make mouse word selections on this screen. 
+
+    The default Key sensitive character is the first character of the word      
+    you select, to choose a different one, change MID$ position parameter.                    
+                                                                                
+    You should now have generated source code in your windows ClipBoard.        
+                                                                                
+
+
+      ------------------ Reset Console Size --------------------                       
+                                                              
+                                                              
+    To Reset your working screen size, Right click for Menu   
+    and click on Misc, then click on Reset Console Size.      
+                                                              
+    Because the Bottom Bar takes up one Row at the Bottom,    
+    you will want to enter a one digit larger number for the  
+    Row. To get a 28 row viewable screen you would have to    
+    enter 29 instead and the Bottom Bar will locate on row 29.
+                                                              
+    If you enter larger numbers, scroll bars will be added.   
+
+
+      ----------------- Edit-------------------------                         
+                                                     
+     Edit will let you create new Text or you can    
+     Edit old text from off of the screen.           
+                                                     
+     To Create new Text, on the Screen click on the  
+     Area you want to place the text in, same as     
+     you would to select an area for Copy, Cut       
+     and Color, but click on Edit instead. Type      
+     in your text in the Edit Box and click on OK    
+     when you are done.                              
+                                                     
+     To Edit existing Text on the screen, You must   
+     first copy it into the Window ClipBoard. Then   
+     Cut the old text out. Then reselect your area   
+     like above and click on Edit. Click in the      
+     Edit Box with your Right mouse button and click 
+     on Paste. Edit your text and click on OK.       
+                                                     
+     I don't use Edit very much, since it wordwraps  
+     everything and messes up the formatting. I      
+     could write one paragraph at a time.   
+         
+
+
+-----------------------Copy, Cut or Color----------------------------
+
+    If the following don't display correctly, change to terminal Font
+    
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³                             Copy, Cut or Color                             | 
+ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ´
+³ Place your cursor on any corner     ³ immage string. Area to CB also uses  ³
+³ and press Left Mouse button.        ³ the address when it creates its code.³
+³                                     ³ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ³
+³                                    ³ After Cut is performed the background³
+³        ±ÍÍÍÍÍÍÍÍÍÍ»                 ³ color is the same as the object being³
+³        º          º                 ³ Cut. To keep the background color the³
+³        º          º                 ³ same as the rest of the screen do the³
+³        º          º                 ³ following...                         ³
+³        ÈÍÍÍÍÍÍÍÍÍÍ±                 ³                                      ³
+³                                    ³ First               Place the cursor ³
+³                                     ³ Click  ±ÍÍÍÍÍÍÍÍÍÍ» outside of the   ³
+³ Place you cursor on opposite        ³        º          º box on the second³
+³ diagional and Click again.          ³        º          º click only.      ³
+³                                     ³        º          º                  ³
+³ Now Click on Copy, Cut or Color.    ³        ÈÍÍÍÍÍÍÍÍÍÍ¼± <---Second click³
+³                                     ³                                      ³
+³ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ  ³ The second click reads the colors.   ³
+³ Copy not only copies the areas,     ³ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ³
+³ it also gets their location address.³ To change Color, click on TxColor or ³
+³ Saving Boxes and Screens for DATA   ³ BgColor on the bottom tool Bar. Color³
+³ uses those addresses along with the ³ on the Tool Bar will use those colors³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³                              Paste                                       ³
+³                                                                          ³
+³ After a Copy or Cut routine is º   Do the Keyboard right arrow and Paste ³
+³ executed, locate the cursor    º   over until you have the right width.  ³
+³ anywhere on the screen and     ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ ³
+³ click on Paste.                º                                         ³
+³ ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶ Adding to the top or bottom of the Box  ³
+³                                º is almost the same.                     ³
+³ One feature of Paste is to     º                                         ³
+³ click in the Middle of a box   º Click on either   ±°        °±          ³
+³ on the top row.                º side of the box ->±°        °±          ³
+³                                º                   ±°        °±          ³
+³                               º                   ±°        °±          ³
+³ ±°    ±   °±                   º                                        ³
+³ ±°        °±    widens ---->   º Click on the top or bottom corner and   ³
+³ ±°        °±                   º click on Copy. Press Keyboard down      ³
+³ ±°        °±                   º arrow and then click on Paste. Do       ³
+³                               º until you have the right depth.         ³
+³                                º                                         ³
+³Click on the Bottom Corner and  º To add to the top, you would do the     ³
+³click on Copy and then press    º same but opposite.                      ³
+³KeyBoard right arrow and click  º                                         ³
+³on Paste. This widens the Box.  º Many things can be done with Copy/Paste.³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+         ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+         º               Arrow Keys                    º
+         ÇÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¶
+         º  The Arrow Keys will move the Program       º
+         º  cursor around the screen in the direction  º
+         º  of that Key.                               º
+         º                                             º
+         º  Ascii charecters can be stored into the    º
+         º  Arrow Keys and every time you hit one it   º
+         º  leaves a copy at the cursor and advances   º
+         º  it to the next position.                   º
+         º                                             º
+         º   ä       I selected Extended ASCII display º
+         º   ä       and clicked on 228 ä and then hit º
+         º   ääää    Down Arrow twice and Right Arrow  º
+         º           3 times.                          º
+         º                                             º
+         º  Hit the Esc key to clear the charecter fromº
+         º  the Arrow keys.                            º
+         º                                             º
+         º  If you have many screens loaded into the   º
+         º  program, you can scroll down and up throughº
+         º  all of them with the Arrow Keys...         º
+         º                                             º
+         ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+
+    
+        --------------------- Some Tips -------------------------
+                                        
+    As mentioned before, the only editing that can be done on this type of   
+    Screen can only be Strike Over, Insert Line and Delete line. There is    
+    a few tricks with Copy and Paste that can help a bit.                    
+                                                                             
+    Now is the time for all goomen to come to the aid of their country.      
+                                                                             
+    You could correct that by first clicking on m in goomen and clicking     
+    on period at the end of the line and click on Copy.                      
+                                                                             
+                                                                     
+    The Cursor will return to m and you can type d and space and click       
+    on Paste on the Bar.  
+                                                    
+                                                                             
+    
+     ---------------- Selecting an Area, see Clicking on Area also-------------
+    
+    There are two ways for selecting an Area of the screen. Most tools       
+    work with clicking on the two diagonal corners and clicking on the       
+    tool. There are a few selections in the Drop Down you have to      
+    use the Copy on first and then click on the selection. 
+
+
+     Uses Copy first on bottom bar
+                  
+    Copy Qb & PBdos Code to Clipboard, ------ at Area drop, on Drop Down Menu
+    Copy PBCC code to Clipboard, ------------ "          "
+    User Control PBCC to ClipBoard,---------- "          "
+    User Control PBdos/QB to ClipBoard,------ "          " 
+    Saving a POP file .POP, ----------------- On Save File dialog
+    Saving PBCC screen code to .INC file----- "          "
+    Saving PBdos/QB static screens to .BAS--- "          "
+    Saving BSAVED screens to .BSA file------- "          "
+
+      Uses click on corners only first, see click on area
+
+    Paste to Console from ClipBoard----------- at Area Drop, on Menu
+    Copy Text with Lines to Clipboard---------     "      "
+    Copy, Paste, Cut, Color, Edit, Mouse ----- On Bottom BAR
+
+          
+    

@@ -1,0 +1,16 @@
+Disk Report generated 01-27-2008  5:51 PM
+
+
+ DRIVE   VOLUME        SERIAL                 TOTAL SPACE      FREE SPACE
+LETTER   LABEL         NUMBER      % USED         (bytes)         (bytes)
+ออออออ   อออออ         ออออออ      ออออออ          ออออออ         อออออออ
+     C   WINDOWS XP    8009-6B5B     0.00   1,023,932,928   1,023,932,928
+     D   Unreal        A297-54BF     0.00     464,166,912               0
+     E   MEMORY CARD   6333-3134     0.00   1,023,967,232   1,023,967,232
+     M   MULTIMEDIA    226A-2C53     0.00   1,023,932,928   1,023,932,928
+     P   My Book       BC05-D6CF     0.00   1,023,932,928   1,023,932,928
+     S   BACKUPS       38AE-8A87     0.00   1,023,932,928   1,023,932,928
+     T   MP3 PLAYER    0000-0000     0.00   1,023,983,616      42,647,552
+     V   WINDOWS VIS   C436-2475     0.00   1,023,932,928   1,023,932,928
+
+

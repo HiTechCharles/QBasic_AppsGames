@@ -1,0 +1,119 @@
+                     BattleShip Pegs
+            Mark your shots in Battleship on the computer,
+              instead of using the red and white pegs.
+
+
+
+KEYBOARD COMMANDS
+
+Note that these keys only work when you are being prompted for the target
+LETTER:  (S and ESCape will work Anytime.)
+
+L   Display and search the 100 computer-selected  patterns that came with
+    the Talking version of BattleShip.  If not using this version, these
+    patterns can be used to set up your ships.
+
+O   Quietly call a shot - Press the letter and number to call, and they
+    will be displayed on the screen in a large font.  This can be used
+    to call out shots to your opponent.
+
+R   Choose a random, unmarked location to target.  The chosen square will
+    be highlighted.  If you do not want to call this square, press ESCape.
+
+S   Show the status of all ships.  Change the state of your own ships from
+    here.
+
+        P-Patrol Boat (2)   D-Destroyer (3)
+        S-Submarine (3)     B-Battleship (4)
+        C-Carrier (5)       Enter/space/ESCape-return
+
+    SCORE is the number of hits on your opponent.
+    SHOTS is the number of ships you have remaining.  (not sunk)     
+          some variations give you X shots on each turn, where X is
+          the number of ships you have still standing.
+
+T   Show the five different types of ships.
+
+Z   Hide your target grid until you press Z again.
+
+ESC Quit the current game in progress.
+
+
+After you win, lose, or press ESCape, you will be asked if you want to
+play again.  You can press S at this point to see the ship status
+screen.
+
+
+GAMEPLAY
+========
+This program is not a BattleShip "game," instead, it allows you to mark your
+shots.  This program is for those who have trouble using the standard pegs, or
+for people that want to try this different approach to marking shots.
+
+
+HOW THIS PROGRAM WORKS
+======================
+To start a turn, press the letter and number for the location you want to
+shoot at.  Note to get the number "10," you press 0 when prompted for the
+number.  Also, pressing the keys F2 to F10 will quickly call the respective
+square.  (F3=call F 3)
+
+Once you know weather it's a HIT or MISS, tell the program.  If you
+got a hit, select the ship that was hit.  
+
+Once a ship has taken the required number of hits to sink, the program will
+tell you.  Sink all of your opponent's ships, and you rule the seas!
+
+
+SHIP STATUS SCREEN
+==================
+The ship status screen shows the state of all ships in the game.  The ships
+YOU are shooting at appear at the top, and your opponent's targets are at the
+bottom.  Since the program can't possibly know when your ships get hit and
+sunk, you have to tell the program about the changes.  Press P,D,S,B,C to
+change the state of YOUR ships.
+
+EXAMPLE:  Press "S" for submarine.  it changes from "Not located yet" to 
+"1 hit taken."  Press it again to make it "2 hits taken."  Press it one more 
+time to make it "SUNK!"  Pressing "S"  again will change it back to "NOT 
+LOCATED" status.  Use this if you hit the wrong letter / change the wrong 
+ship.
+
+See KEYBOARD HELP, "S" for more
+
+
+BATTLESHIP VARIATIONS
+=====================
+There are a few different ways to play the game of battleship.  Below are all
+known variations.  If you have one you'd like to add, drop me an email and
+describe the rules.  (contact info at end of file.)
+
+1.  On a player's turn, only ONE SHOT is taken.  Regardless of a hit or a
+    miss, the turn ends, and play passes to the other player.
+	
+2.  On a turn, each player takes one shot, and may keep shooting until he
+    or she misses.  A player's turn ends after a miss.  
+
+3.  ON a turn, each player takes one shot for each ship not sunk in his or
+    her fleet.  For example, if you still have all 5 ships, you get 5 shots.
+    If your opponent only has 3 ships left, he or she gets 3 shots.  (the 
+    Ship status screen will tell you how many shots each player gets in this
+    variation.)
+
+4.  This game offers the most challenge for the "expert" player. It is
+    played the same as game #3  above, except:
+    . After a salvo of shots is called, the opponent simply announces how 
+      many HITS were made - but NOT WHERE or on WHAT SHIPS.
+    . Since players are never sure which shot was a hit in any salvo, they
+      not use RED pegs in their TARGET GRID. If is advised to keep a record
+      of hits for each SALVO on a separate piece of paper.  (The Ship Status
+      screen will never show any hits, because neither you, or the program
+      know where the hits are.  When a player has 17 hits, all of his or her
+      opponent's ships have been sunk.)
+    
+
+CONTACT
+=======
+To ask questions, or pose suggestions, email me at HiTechCharles@gmail.com
+
+

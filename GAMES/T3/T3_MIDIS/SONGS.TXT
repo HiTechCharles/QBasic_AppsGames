@@ -1,0 +1,12 @@
+All of the songs in Tic Tac Toe came from video/computer games:
+
+SONG1.MID - Final Fantasy 7 (VII) title screen
+SONG2.MID - Final Fantasy 1 game over
+SONG3.MID - Super Metroid Brinstar
+SONG4.MID - Final Fantasy 9 (IX) title screen
+SONG5.MID - Legend of Zelda intro 
+SONG6.MID - Ultima 4
+SONG7.MID - Ultima 4 main
+SONG8.MID - Beyond the Beyond shrine
+SONG9.MID - Ultima 4 title screen
+SONG10.MID - Beyond the Beyond church

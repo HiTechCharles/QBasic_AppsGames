@@ -1,0 +1,25 @@
+                          Monohelp Command Help
+
+At the end of each player's turn, you can use many helpful functions that
+make the Monopoly board game version more enjoyable.  The following keys
+can be used while the dice are shown, on any player's turn.  
+
+ H:  Displays this screen.
+
+ C:  Draw Chance card shows you the top card in the chance card deck.
+      
+ M:  Draw Community Chest card displays the next Community Chest card.
+
+ D:  Allows you to see title deed cards for any property.
+      
+ R:  Shows the rules of Monopoly.  These are the same rules found in the  standard Monopoly set.  To print the rules, print the file RULES.TXT in the directory where you put this program.
+
+ B:  Allows you to elimninate players when they leave the game or go bankrupt.
+
+ESCape or X:  Lets you quit the game entirely.
+
+
+
+A quick refference for these commands can be found on the bottom of the screen.  
+
+Good Luck!  Own it all!

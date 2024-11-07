@@ -1,0 +1,11 @@
+A quick note about MMG  (Money Making Game)
+
+For slower computers, you can rum MMG with the /NG switch to disable the hi-res graphics.
+
+FOR EXAMPLE:       MMG /NG
+
+You will need the following files:
+
+MMG.EXE		Executable file
+MMG.BMP		Graphic images
+MMG.TXT		This file

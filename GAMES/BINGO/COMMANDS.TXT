@@ -1,0 +1,52 @@
+                                All-Star Bingo
+                                   Commands
+
+
+Here is a detailed explanation of all of All-Star Bingo's commands.  The best
+thing to do is to put your hand on the number pad on the right side of the
+keyboard.  You can do all commands with one hand.  Here's the layout
+
+      
+ALL-STAR COMMAND BUTTON LAYOUT       
+ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+³ ÚÄÄÄ¿  ÚÄÄÄ¿  ÚÄÄÄ¿  ÚÄÄÄÄÄ¿ ³
+³ ³ 1 ³  ³ 2 ³  ³ 3 ³  ³     ³ ³
+³ ÀÄÄÄÙ  ÀÄÄÄÙ  ÀÄÄÄÙ  ³ENTER³ ³
+³ ÚÄÄÄÄÄÄÄÄÄÄ¿  ÚÄÄÄ¿  ³     ³ ³ 
+³ ³    0     ³  ³ . ³  ³     ³ ³
+³ ÀÄÄÄÄÄÄÄÄÄÄÙ  ÀÄÄÄÙ  ÀÄÄÄÄÄÙ ³
+ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+
+#1:  Press '1' when someone gets a bingo.  You will be asked if the called
+bingo is good.  If there is a bingo, answer yes.  If there is no legal
+bingo, press N.  You will still see the current number on-screen.
+
+#2:  Hit '2' to show different bingo patterns.  These patterns show you
+different ways you can get a bingo.  While viewing the patterns, press the UP
+or DOWN arrows to see the entire document.  Press ESCape to return to the
+game with the current number on the screen.
+
+#3:  This command simply quits the program.  
+ESCape can also be pressed to quit.
+
+#0:  You've got this command to work.  During the game, press 0 to show this
+document again.  Press UP or DOWN to scroll through the document; ESCape
+will close the document and return you to the game in progress with the 
+current number showing.
+
+. (period):  Press the period key to hear the current number out loud again.
+  (This will only work with the "sound" version of this program.
+
+ENTER:  Press ENTER to call the next number.  The next number will 
+appear as it is spoken.  (Spoken allowed in "sound" version only.)
+
+
+THE SCREEN
+
+The screen is divided into two major areas during normal play.  The area on 
+the left, in the middle of the screen, shows you the current number called.  
+The area on the right is the "calling card."  This panel shows you all of 
+the numbers that have been called for each letter.  Just like the 
+professionals!  A line at the bottom left of your screen shows the total 
+number of called numbers.

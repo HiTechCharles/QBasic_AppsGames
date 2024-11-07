@@ -1,0 +1,97 @@
+                  G U E S S  - A -  N U M B E R
+
+               By Charles Martin 
+
+
+Guess-a-number, will be called NUMBER in this document, is a 1 or
+two player game where the object is to guess the other player's
+number in as few turns as possible.
+
+
+PLAYERS AND OBJECT OF NUMBER
+     NUMBER is a one or two player game.  In 1-player mode, you
+play against a computer opponent, which will pick the numbers for
+you to guess.  In a 2-player game, players take turns; one makes
+a number while another tries to guess it.  Whoever guessed the
+last number will make the number in the next game.
+
+
+A GUIDE THROUGH THE 1-PLAYER GAME MODE
+     When you first load the program, it will ask you for the
+number of players.  You should push '1' to play 1 player.  Next,
+your computer will ask you if you want sound.  You hear sounds
+when your guess is too small, too big, or if you guess the right
+number. Choose wheather you want sound or not.  (Press Y or N
+when it talks about sound.)
+
+     Now, you will enter your name.  Type in a name for your
+player.  Your name can have between 2 and 14 letters in it.  Now
+you will see the name of your computer player.  The computer
+picks one name out of 100 to use.  Not many games have that!  You
+will be asked how high of a number the computer can pick.  Hit Y
+to choose how high the computer's number can go.  If you put in a
+new number, do not use commas (,) in the number.  Choose N to let
+the computer player pick from 1 to 10,000.
+
+     Enough questions!  Let's play the game!  The highest number
+the computer can pick from is displayed at the top of the screen.
+
+To play, just type in a number.  It can be between 1 and the
+number you allowed the computer to pick to.  you will be told if
+your guess is too high or too low.  Try it until you get it! 
+When you do, it will show you the number you just guessed, and
+the number of turns it took you to guess it.  If sound is on, you
+will hear a little tune.
+
+     After you win a game, you will be asked if you want to play
+again.  Hit Y to continue, N to quit the game.  If you want to
+switch to two player, press Y and read the next question.  Now
+the computer wants to know about the next game.   If you want to
+play with the same number of players, and names, hit the Y key. 
+To change to 2-player, or to choose different 1-player settings,
+press N.
+
+How to play a 2-player game
+     A two player game is just as easy to play.  When you load
+the game, press 2 for two players.  Choose wheather or not you
+want sound on or off.
+
+     Now input names.  You will be asked for the guessing
+player's name.  Put in the name of the player that will guess the
+first number.  The other name entry is for the player that's
+making the first number to guess.  After name input, choose the
+highest number that can be picked by the player making up the
+number.  Press Y to change, N to accept; up to 10,000
+
+     The player creating the number will now put in the number
+for the other player to guess.  The guessing player should close
+their eyes or leave the room so the number isn't seen.  It's like
+battleship, don't let 'em see your ships.)
+
+     After there is a number, the guessing player tries to guess
+it.  You will be told if your guess is too high or too low.  Try
+it until you get it.  When you guess it, you will see the number
+you just guessed, and the number of turns it took you to guess
+the right number.
+
+     After you win a game, you will be asked if you want to play
+again.  Hit Y to continue, N to quit the game.  If you want to
+switch to one player, press Y and read the next question.  Now
+the computer wants to know about the next game.   If you want to
+play with the same number of players, and names, hit the Y key. 
+To change to 1-player, or to choose different 2-player settings,
+press N.
+
+
+Other info
+
+Development:   This game was developed and compiled using
+               Microsoft QBasic 4.5  This is version 3 of the
+               program.
+
+support Files: To run this game, you only need NUMBER.EXE.  No   
+               other files are required.
+
+Copyright:     This software was created by Charles Martin,
+It may be distributed, only with the program
+and this document together.

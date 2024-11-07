@@ -1,0 +1,21 @@
+Things the menu should control
+
+
+Beginning Command-line:  /V
+
+QUESTION 1:  How do you have the computers connected?
+    Serial cable                     /COM
+    Parallel (Printer cable)         /LPT
+    Don't know, Auto-detect          /LPT /COM
+
+
+QUESTION 2:  Can your screen display colors?
+    Yes
+    No                               /B
+
+
+(If serial communication chosen, ask Q3)
+QUESTION 3:  Which connection speed should be used?
+        (Higher number means faster speed)
+	(Set lower only if connection fails at higher speeds)
+9600, 19200, 38400, 57600, 115200      use /baud:#####

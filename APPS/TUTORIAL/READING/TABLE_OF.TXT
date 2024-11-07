@@ -1,0 +1,7 @@
+
+
+1	Programming:  Who, Why, and How
+2	Introduction to Variables
+		Numeric variables
+		String Variables
+3	Asking Questions, and Displaying their Answers

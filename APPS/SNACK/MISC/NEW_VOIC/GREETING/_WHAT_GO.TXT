@@ -1,0 +1,15 @@
+Which files should go into this folder, you ask:
+
+the "HI" sound plays when you first start the program - Sa anything
+you want
+
+the "Bye" sound plays when you quit the program - Again, say anything
+
+EXAMPLE "HI " - "Hi this is uncle chuck, let's play!"
+EXAMPLE "BYE" - "Bye Bye"
+
+
+FILE NAME
+---------	
+Hi.wav		
+Bye.wav		

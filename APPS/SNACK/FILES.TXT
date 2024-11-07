@@ -1,0 +1,27 @@
+SNACK sounds
+
+Record yourself saying all of these letters, numbers, colors, shapes, and animals.  
+
+
+
+SHAPES
+	Circle		Diamond		Oval
+	Rectangle	Square		Triangle
+
+NUMBERS
+	0 to 20
+
+ALPHABET
+	A to Z
+
+COLORS
+	Black		Blue		Gray
+	Green		Orange		Purple
+	Red		White		Yellow
+
+ANIMALS	Cat		Dog		fish
+	lion		monkey		pig
+	cow		duck		frog
+	bird		deer		sheep
+	
+

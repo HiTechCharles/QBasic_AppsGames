@@ -1,0 +1,15 @@
+Which files should go into this folder, you ask:
+
+
+FILE NAME	WHAT TO SAY
+---------	-----------
+Black.wav	Black
+Blue.wav	Blue
+Gray.wav	Gray
+Green.wav	Green
+Orange.wav	Orange
+Purple.wav	Purple
+Red.wav		Red
+White.wa	White
+Yellow.wav	Yellow
+

@@ -1,0 +1,167 @@
+  Mediterranean Avenue          Baltic Avenue       
+        Rent $2                   Rent $4         
+                                               
+  With 1 house    $ 10    With 1 house    $ 20 
+  With 2 houses     30    With 2 houses     60 
+  With 3 houses     90    With 3 houses    180 
+  With 4 houses    160    With 4 houses    320 
+                                               
+     With Hotel    250       With Hotel    450 
+                                               
+ Mortgage value     30   Mortgage value     30 
+          Price     60            Price     60 
+Houses and hotels cost $50 each. You must have 4 house on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+    Oriental Avenue          Vermont Avenue       Connecticut Avenue    
+        Rent $6                 Rent $6                 Rent $8         
+                                                                        
+  With 1 house    $ 30    With 1 house    $ 30    With 1 house    $ 40  
+  With 2 houses     90    With 2 houses     90    With 2 houses    100  
+  With 3 houses    270    With 3 houses    270    With 3 houses    300  
+  With 4 houses    400    With 4 houses    400    With 4 houses    450  
+                                                                        
+     With Hotel    550       With Hotel    550       With Hotel    600  
+                                                                        
+ Mortgage value     50   Mortgage value     50   Mortgage value     60  
+          Price    100            Price    100            Price    120  
+  
+Houses and hotels cost $50 each. You must have 4 houses on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+   St. Charles Place         States Avenue          Virginia Avenue     
+        Rent $10                Rent $10                Rent $12        
+                                                                        
+  With 1 house    $ 50    With 1 house    $ 50    With 1 house      60  
+  With 2 houses    150    With 2 houses    150    With 2 houses    150  
+  With 3 houses    450    With 3 houses    450    With 3 houses    500  
+  With 4 houses    620    With 4 houses    625    With 4 houses    700  
+                                                                        
+     With Hotel    750       With Hotel    750       With Hotel    900  
+                                                                        
+ Mortgage value     70   Mortgage value     70   Mortgage value     80  
+          Price    140            Price    140            Price    160  
+  
+Houses and hotels cost $100 each. You must have 4 houses on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+    St. James Place         Tenessee Avenue          New York Avenue
+        Rent $14                Rent $14                Rent $16
+                                                                        
+  With 1 house    $ 70    With 1 house    $ 70    With 1 house    $ 80  
+  With 2 houses    200    With 2 houses    200    With 2 houses    220  
+  With 3 houses    550    With 3 houses    550    With 3 houses    600  
+  With 4 houses    750    With 4 houses    750    With 4 houses    800  
+                                                                        
+     With Hotel    950       With Hotel    950       With Hotel   1000  
+                                                                        
+ Mortgage value     90   Mortgage value    180   Mortgage value    200  
+          Price    180            Price     90            Price    100  
+  
+Houses and hotels cost $100 each. You must have 4 houses on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+    Kentucky Avenue          Indiana Avenue         Illinois Avene      
+        Rent $18                Rent $18                Rent $20        
+                                                                        
+  With 1 house    $ 90    With 1 house    $ 90    With 1 house    $100  
+  With 2 houses    250    With 2 houses    250    With 2 houses    300  
+  With 3 houses    700    With 3 houses    700    With 3 houses    750  
+  With 4 houses    870    With 4 houses    870    With 4 houses    925  
+                                                                        
+     With Hotel   1050       With Hotel   1050       With Hotel   1100  
+                                                                       
+ Mortgage value    110   Mortgage value    110   Mortgage value    240 
+          Price    220            Price    220            Price    120 
+   
+Houses and hotels cost $150 each. You must have 4 houses on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+    Atlantic Avenue         Ventnor Avenue           Marvin Gardens     
+        Rent $22                Rent $22                Rent $24        
+                                                                        
+  With 1 house    $110    With 1 house    $110    With 1 house    $120  
+  With 2 houses    330    With 2 houses    330    With 2 houses    360  
+  With 3 houses    800    With 3 houses    800    With 3 houses    850  
+  With 4 houses    975    With 4 houses    975    With 4 houses   1025  
+                                                                        
+     With Hotel   1150       With Hotel   1150       With Hotel   1200  
+                                                                        
+ Mortgage value    130   Mortgage value    130   Mortgage value    140  
+          Price    260            Price    260            Price    280  
+
+Houses and hotels cost $150 each.  You must have 4 houses on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+     Pacific Avenue      North Carolina Avenue    Pensylvania Avenue    
+        Rent $26                Rent $26                Rent $28        
+                                                                        
+  With 1 house    $130    With 1 house    $130    With 1 house    $150  
+  With 2 houses    390    With 2 houses    390    With 2 houses    450  
+  With 3 houses    900    With 3 houses    900    With 3 houses   1000  
+  With 4 houses   1100    With 4 houses   1100    With 4 houses   1200  
+                                                                        
+     With Hotel   1275       With Hotel   1275       With Hotel   1400  
+                                                                        
+ Mortgage value    150   Mortgage value    150   Mortgage value    160  
+          Price    300            Price    300            Price    320  
+  
+Houses and hotels cost $200 each. You must have 4 houses on each property to
+build hotels.  (Three houses required for a short game.)
+
+
+      Park Place              Boardwalk        
+        Rent $35                Rent $50       
+                                               
+  With 1 house    $175    With 1 house    $200 
+  With 2 houses    500    With 2 houses    600 
+  With 3 houses   1100    With 3 houses   1400 
+  With 4 houses   1300    With 4 houses   1700 
+                                               
+     With Hotel   1500       With Hotel   2000 
+                                               
+ Mortgage value    175   Mortgage value    200 
+          Price    350            Price    400 
+ 
+Houses and hotels cost $200 each. You must have 4 house on each property to
+build hotels.  (Three houses required in a short game.)
+
+
+      Electric Company        
+         Water Works          
+                              
+  if one "utility" is owned   
+  rent is 4 times the amount  
+  shown on dice.              
+                              
+  If both "utilities" are     
+  owned, rent is 10 times the 
+  amount shown on dice.       
+                              
+  Mortgage value        $ 75  
+           Price         150  
+
+Houses and hotels cannot be built on utilities.
+
+
+        Reading Railroad        
+      Pensylvania Railroad      
+         B & O Railroad         
+           Short Line           
+
+           Rent $25             
+                                
+  If 2 Railroads owned       50 
+  If 3 Railroads owned      100 
+  If 4 railroads owned      200 
+                                
+        Mortgage value      100 
+                 Price      200 
+
+Houses and hotels cannot be built on railroads.

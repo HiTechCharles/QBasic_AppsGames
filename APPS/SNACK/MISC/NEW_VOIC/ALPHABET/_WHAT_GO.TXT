@@ -1,0 +1,31 @@
+Which files should go into this folder, you ask:
+
+
+FILE NAME	WHAT TO SAY
+---------	-----------
+A.wav		 A
+B.wav		 B
+C.wav		 C
+D.wav		 D
+E.wav		 E
+F.wav		 F
+G.wav		 G
+H.wav		 H
+I.wav		 I
+J.wav		 J
+K.wav		 K
+L.wav		 L
+M.wav		 M
+N.wav		 N
+O.wav		 O
+P.wav		 P
+Q.wav		 Q
+R.wav		 R
+S.wav		 S
+T.wav		 T
+U.wav		 U
+V.wav		 V
+W.wav		 W
+X.wav		 X
+Y.wav		 Y
+Z.wav		 Z

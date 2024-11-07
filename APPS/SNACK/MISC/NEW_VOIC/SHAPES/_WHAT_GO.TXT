@@ -1,0 +1,11 @@
+Which files should go into this folder, you ask:
+
+
+FILE NAME		WHAT TO SAY
+---------		-----------
+Circle.wav		Circle
+Diamond.wav		Diamond
+Oval.wav		Oval
+Rectangle.wav	Rectangle
+Square.wav		Square
+Triangle.wav	Triangle

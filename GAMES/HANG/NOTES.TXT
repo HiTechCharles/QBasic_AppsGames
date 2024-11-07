@@ -1,0 +1,27 @@
+IMPROVEMENTS TO MAKE
+
+Improved two player game
+    Type names in                                   
+    Decide who should make the first puzzle         
+    First player makes puzzle, and second player guesse it
+    SCREEN DISPLAY:  second player will make the next puzzle, and
+                     first player will guess it.
+    First player guesses puzzle made by second player
+    show statistics   wins losses total tries used.
+    at end of game:  Tries Used:  7 - Tries
+    give a menu:  play another round
+                  Show statistics
+                  Change players
+                  turn sound on/off
+                  exit
+    Show the above menu if player presses ESCAPE during puzzle guess / entry
+
+
+    Stats chart design
+
+                Player 1        Player 2
+         Wins
+       Losses
+Rounds Played
+   Tries Used
+

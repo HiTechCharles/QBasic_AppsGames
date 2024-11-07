@@ -1,0 +1,165 @@
+Gin Rummy Rules
+
+Introduction
+
+Gin Rummy is one of the most popular forms of rummy. Two 
+players generally play the game, each receiving ten cards. 
+
+----------The Deck----------
+One standard deck of 52 cards is used. Cards in each suit rank,
+From low to high: 
+
+   Ace 2 3 4 5 6 7 8 9 10 Jack Queen King.
+
+The cards have values as follows: 
+
+     Face cards (K,Q,J)      10 points 
+     Ace                      1 point
+     Number cards are worth their spot (number) value.
+
+
+----------The Deal----------
+The first dealer is chosen randomly, and the turn to deal alternates 
+between the players. Each player is dealt ten cards, one at a time. 
+The twenty-first card is turned face up to start the discard pile and 
+the remainder of the deck is placed face down beside it to form the 
+stock. The players look at and sort their cards. 
+
+
+----------Object of the Game----------
+The object of the game is to arrange as many as possible of the ten 
+cards in your hand into sets. There are two kinds of sets:  
+sequences and groups. 
+
+A sequence consists of three or more cards of the same suit in 
+consecutive order, such as 4, 5, 6 or 8, 9, 10, J.   A group is three 
+or four cards of the same rank, such as 7, 7, 7. 
+
+A card can belong to only one set at a time - you cannot use the 
+same card as part of both a group and a sequence. 
+
+
+----------Play----------
+A normal turn consists of two parts:
+
+1.  The Draw. You must begin by taking one card from either the 
+top of the stockpile or the top card on the discard pile, and adding 
+it to your hand. The discard pile is face up, so you can see in 
+advance what you are getting.  The stock is face down, so if you 
+choose to draw from the stock you do not see the card until after 
+you have committed yourself to take it. If you draw from the stock, 
+you add the card to your hand without showing it to the other 
+player(s).  
+
+2.  The Discard To complete your turn, one card must be    
+discarded from your hand and placed on top of the discard pile face 
+up.  After discarding a card, announce the rank and suit of the card 
+that you just discarded to mark the end of your turn.  For example, 
+you would say "six of spades." After discarding the six of spades.     
+If you took the top card from the discard pile, you must discard a 
+different card - taking the top discard and putting the same card 
+back is not permitted. 
+
+For the first turn of the hand, the draw is done in a special way. 
+First, the person who did not deal chooses whether to take the 
+turned up card. If the non-dealer declines it, the dealer may take 
+the card. If both players refuse the turned-up card, the non-dealer 
+draws the top card from the stockpile.  Whichever player took a 
+card completes their turn by discarding and then it is the other 
+player's turn to play. 
+
+
+----------Knocking----------
+The play ends when a player knocks. This can be done on any turn 
+(including the first), immediately after drawing, provided that you 
+can form sufficient of your cards into sets. Having knocked, you 
+complete your turn by discarding one card as usual  (face down on 
+the discard pile) and then spreading your remaining cards face up 
+on the table, arranged as far as possible into groups and sequences.  
+Any remaining cards from your hand, which are not part of a set, 
+are called unmatched cards or deadwood. In order to be allowed to 
+knock, the total value of your unmatched cards must be ten points 
+or less. Knocking with no unmatched cards at all is called going 
+gin, and earns a special bonus. 
+
+You are never forced to knock. A player who is able to knock may 
+choose instead to carry on playing, to try to get a better score. 
+
+The opponent of the player who knocked must then spread their 
+cards face-up, arranging them into sets where possible.  Provided 
+that the knocker did not go gin, the opponent is also allowed to lay 
+off any unmatched cards by using them to extend the sets laid 
+down by the knocker - by adding a fourth card of the same rank to 
+a group of three, or further consecutive cards of the same suit to 
+either end of a sequence.
+
+If a player goes gin, the opponent is not allowed to lay off any 
+cards.  Note that the knocker is never allowed to lay off cards on 
+the opponent's sets. 
+
+The play also ends if the stockpile is reduced to two cards, and the 
+player who took the third last card discards without knocking. In 
+this case the hand is cancelled, there is no score, and the same 
+dealer deals again. 
+
+
+----------Scoring----------
+Each player counts the total value of his or her unmatched cards. If 
+the knocker's count is lower, the knocker scores the difference 
+between the two counts. 
+
+If the knocker did not go gin, and the counts are equal, or the 
+knocker's count is greater than that of the opponent, the knocker 
+has been undercut. In this case the knocker's opponent scores the 
+difference between the counts plus a 25-point bonus. 
+
+A player who goes gin scores a bonus 25 points, plus the 
+opponent's count in unmatched cards, if any. A player who goes 
+gin can never be undercut. Even if the other player has no 
+unmatched cards at all, the knocker gets the 25-point bonus the 
+other player scores nothing. 
+
+The game continues with further deals until one player's 
+cumulative score reaches 100 points or more. 
+
+
+----------Rule variations----------
+Some players begin the game differently: the non-dealer receives 
+11 cards and the dealer 10, and no card is turned up.  The non-
+dealer's first turn is simply to discard a card, after which the dealer 
+takes a normal turn, drawing the discard or from the stock, and 
+play alternates as usual. 
+
+Some people play that the bonus for going gin is 20 (rather than
+25) and the bonus for an undercut is 20 (rather than 25).
+
+
+----------Oklahoma Gin----------
+In this popular variation the value of the original face up card 
+determines the maximum count of unmatched cards with which it 
+is possible to knock. Picture cards denote 10 as usual. Therefore, if 
+a seven is turned up, in order to knock you must reduce your count 
+to 7 or fewer. 
+
+If the original face up card is a spade, the final score for that deal 
+(including any undercut or gin bonus) is doubled. 
+
+The target score for winning Oklahoma Gin is generally set at 150 
+rather than 100. 
+
+Some play that if an ace is turned up you may only knock if you 
+can go gin. 
+
+----------Playing with 3 or 4 Players.----------
+When three people play gin rummy, the dealer deals to the other 
+two players but does not take part in the play. The loser of each 
+hand deals the next, which is therefore played between the winner 
+and the dealer of the previous hand. 
+
+Four people can play as two partnerships. In this case, each player 
+in a team plays a separate game with one of the opposing pair.  
+Players alternate opponents, but stay in the same teams. At the end 
+of each hand, if both players on a team won, the team scores the 
+total of their points. If one player from each team won, the team 
+with the higher scores scores the difference. The first team whose 
+cumulative score reaches 125 points or more wins.

@@ -1,0 +1,70 @@
+              `SNACK  (Shapes Numbers Alphabet Colors for Kids)
+                              By Charles Martin
+
+
+THE MAIN MENU
+At the menu screen, you can choose one of the 4 learning activities
+described below.
+
+ACTIVITY CHOICES:  If speech is not "OFF," all activities will talk.
+Lessons will keep running until a key is pressed.  Pressing a key
+during an activity will return you to the menu.
+
+    S.  Shapes
+        Shapes are shown in different colors.  The  following shapes are presented:
+        Circle      Diamond     Oval
+        Rectangle   Square      Triangle
+
+    N.  Numbers
+        The program counts from 1 to 20, or from 20 to  1. The spelling
+        of each number appears below the number itself.
+
+    A.  Alphabet
+        Letters from A to Z, or Z to A are shown on the     screen.  
+
+    C.  Colors
+        All manner of colors will be displayed, with the spelling of the
+        color at the bottom.  The following colors are used:
+
+        black       blue        gray
+        green       orange      purple
+        Red         white       yellow
+
+
+OTHER MENU OPTIONS
+
+    V.  Voice:  Uncle Chuck/Aunt Amanda/<OTHER VOICES>/OFF
+        This option changes the voice that will talk during activities.
+        "Chuck" is a male   voice, while "Amanda" is a female voice.
+        Setting this option to "OFF" will disable all sound and
+        speech, making the program silent.
+
+        If you would like to add your own voice to the program, see
+        the "MAKING YOUR OWN VOICE SET" section below.
+
+    X.  Exit this program
+
+
+SCREENSAVER / CONTINUOUS / AUTOMATIC OPERATION
+
+If you are at the menu screen, and no keys are pressed for 10
+seconds, this program will pick an activity at random.  The chosen
+activity will run for about 90 seconds, after which another lesson is
+chosen.  This mode will end when any key on the keyboard is pressed.
+
+
+ACTIVITIES COMING SOON
+
+	Keyboard Fun
+	As the letter and number keys are pressed, the 	letter or number
+	will show up on the screen.	
+
+    Animals
+	A word, and possably a picture will come up on	the screen,
+	Example:  CAT  <<C A T>> <<meeeowww>>
+
+
+CONTACTING THE AUTHOR
+
+If you would like to ask questions, or pose suggestions, you can email
+me at HiTechCharles@gmail.com
